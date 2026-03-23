@@ -1,1 +1,1 @@
-my_secret_key = "ghp_1234567890abcdefghijklmnopqrstuvwxyZ"
+GITHUB_TOKEN = "ghp_1234567890abcdefghijklmnopqrstuvwxyz1234"
