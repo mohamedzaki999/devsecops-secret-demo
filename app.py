@@ -1,2 +1,2 @@
-API_KEY = "sk_test_123456789_secret_demo"
+AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
 print("Hello DevSecOps")
